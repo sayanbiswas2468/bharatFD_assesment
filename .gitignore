@@ -1,0 +1,37 @@
+### Node.js ###
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+### Environment Variables ###
+.env
+.env.local
+.env.*.local
+
+### Logs ###
+logs/
+*.log
+log/
+*.log*
+
+### Editor/IDE Specific ###
+.vscode/
+.idea/
+.DS_Store
+
+### Build/Compiled Files ###
+dist/
+build/
+out/
+coverage/
+
+### TinyMCE Cache ###
+.tinymce/
+
+### Misc ###
+*.bak
+*.swp
+*.swo
